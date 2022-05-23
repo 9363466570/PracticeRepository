@@ -17,6 +17,7 @@ public class Student {
 		this.studentmarks = studentmarks;
 		this.studentstatus = studentstatus;
 	}
+	
 
 	public int getStudentid() {
 		return studentid;
