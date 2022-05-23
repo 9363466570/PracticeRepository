@@ -65,6 +65,8 @@ public class InheritanceDemo {
 		obj2.draw2d();
 		obj2.message();
 		obj2.draw3d();
+		
+		System.out.println("Welcome to github");
 
 	}
 
