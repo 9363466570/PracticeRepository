@@ -22,6 +22,7 @@ public class InterfaceDemo {
 				
 			}
 		};
+		System.out.println("Hello github");
 		
 		calc.addition();  			// then we are calling that methods using anonymous 
 		calc.subtraction();
